@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Arna!
 
-<!--
-**arnadey/arnadey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I am currently pursuing a **BSc in Computer Science & Engineering (CSE)**  
+🏫 East Delta University  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 💻 Passionate Programmer  
+- 🔐 Interested in Cyber Security  
+- 🎨 Creative Graphic Designer  
+- 🌱 Always learning new technologies and improving my skills  
+
+---
+
+## 🛠️ Skills
+- **Programming:** C, C++, Python, Java (basic)
+- **Web:** HTML, CSS, JavaScript
+- **Cyber Security:** Basics of Networking & Security
+- **Design:** Adobe Photoshop, Illustrator  
+
+---
+
+## 📌 What I’m Working On
+- Improving problem-solving skills  
+- Learning advanced cyber security concepts  
+- Building creative and useful projects  
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: arnabeethidey72@gmail.com
+
+---
+
+## ⚡ Fun Fact
+I love combining **technology + creativity** through coding and design!
